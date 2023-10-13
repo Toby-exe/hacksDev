@@ -1,0 +1,16 @@
+Mount Royal University has carved out a distinct niche by offering smaller class sizes, a robust liberal education and unique undergraduate programs. Founded in 1910 and located in Calgary, Alberta, Canada, Mount Royal grew into a vibrant college in the 1930s and became a mid-sized university with a greater focus on bachelor degrees in 2009.
+Mount Royal University believes talented and committed employees are the driving force behind student success, and Indigenous People have the right to meaningful access to quality post-secondary education. While most of our students come to Mount Royal from within Calgary and the surrounding region, we believe in providing a flexible and collaborative learning experience provincially, nationally and internationally. More than 90,000 Mount Royal alumni are contributing to their communities worldwide.
+The Lincoln Park campus offers an exceptional experience for students, employees and visitors. We want to reduce our environmental impact and maintain a safe and welcoming campus. Community members are invited to come to our campus to take non-credit courses, enjoy recreation facilities, see a performance, take a music class at the Conservatory, rent space, use conference services or access Library’s resources.
+
+Classes at MRU:
+
+COMP 2659 - Computing Machinery II
+(formerly COMP 3325)
+Credit(s): 3
+Lecture Hour(s): 3
+Lecture Hours Schedule Type: Lecture
+Lab Hour(s): 1
+Tutorial Hour(s): 1
+An introduction to combinational and sequential digital logic design, focusing on its application to the creation of modern computing machinery. Includes hardware interfacing to peripheral devices, and programming techniques for asynchronous and real-time machine input/output.
+Prerequisite(s): PHIL 1179 and COMP 2655 with minimum grades of C- or higher.
+
