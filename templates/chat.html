@@ -111,8 +111,8 @@
           var rawText = $("#text").val();
 
           var userHtml =
-            '<div class="d-flex justify-content-end mb-4"><div class="msg_cotainer_send">' +
-            rawText.replace(new RegExp('.{1,' + Math.floor(window.innerWidth / 40) + '}', 'g'), "$&\n") +
+            '<div class="d-flex justify-content-end mb-4"><div class="msg_cotainer_send" style="word-wrap: break-word;">' +
+            rawText.replace(new RegExp('.{1,' + Math.floor((window.innerWidth - 12) / 10) + '}', 'g'), "$&\n") +
             '<span class="msg_time_send">' +
             str_time +
             '</span></div><div class="img_cont_msg"><img src="https://i.ibb.co/d5b84Xw/Untitled-design.png" class="rounded-circle user_img_msg"></div></div>';
@@ -133,8 +133,8 @@
             url: "/get",
           }).done(function (data) {
 			var botHtml =
-              '<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img src="../static/img/cougar_icon.svg" class="rounded-circle user_img_msg"></div><div class="msg_cotainer">' +
-              data.replace(new RegExp('.{1,' + Math.floor(window.innerWidth / 40) + '}', 'g'), "$&\n") +
+              '<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img src="../static/img/cougar_icon.svg" class="rounded-circle user_img_msg"></div><div class="msg_cotainer" style="word-wrap: break-word;">' +
+              data.replace(new RegExp('.{1,' + Math.floor((window.innerWidth - 12) / 10) + '}', 'g'), "$&\n") +
               '<span class="msg_time">' +
               str_time +
               "</span></div></div>";

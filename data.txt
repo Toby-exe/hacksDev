@@ -2,7 +2,16 @@ Mount Royal University has carved out a distinct niche by offering smaller class
 Mount Royal University believes talented and committed employees are the driving force behind student success, and Indigenous People have the right to meaningful access to quality post-secondary education. While most of our students come to Mount Royal from within Calgary and the surrounding region, we believe in providing a flexible and collaborative learning experience provincially, nationally and internationally. More than 90,000 Mount Royal alumni are contributing to their communities worldwide.
 The Lincoln Park campus offers an exceptional experience for students, employees and visitors. We want to reduce our environmental impact and maintain a safe and welcoming campus. Community members are invited to come to our campus to take non-credit courses, enjoy recreation facilities, see a performance, take a music class at the Conservatory, rent space, use conference services or access Library’s resources.
 
-Classes at MRU:
+CLASSES AT MRU:
+
+COMP 1633 - Introduction to Computer Science II
+(formerly COMP 2233)
+Credit(s): 3
+Lecture Hour(s): 3
+Lecture Hours Schedule Type: Lecture
+Tutorial Hour(s): 2
+Continuation of COMP 1631. The implementation of abstract data structures using pointers and objects, with emphasis on modularity and software design.
+Prerequisite(s): COMP 1631 with a minimum grade of C- or higher.
 
 COMP 2659 - Computing Machinery II
 (formerly COMP 3325)
@@ -13,6 +22,42 @@ Lab Hour(s): 1
 Tutorial Hour(s): 1
 An introduction to combinational and sequential digital logic design, focusing on its application to the creation of modern computing machinery. Includes hardware interfacing to peripheral devices, and programming techniques for asynchronous and real-time machine input/output.
 Prerequisite(s): PHIL 1179 and COMP 2655 with minimum grades of C- or higher.
+
+COMP 2633 - Foundations of Software Engineering
+(formerly COMP 3333)
+(3 credits) 3 hours lecture, 2 hours tutorial Lecture, Tutorial
+Introduction to software development problems and to the processes and methods used to address them. Software life cycles models. Software process improvement. Goals and methods for requirements analysis and specification, software design, implementation, integration and testing of software. An introduction to one or more informal methods (focusing on object-oriented approaches) currently in wide spread use.
+Prerequisite(s): COMP 2631 with a minimum grade of C- or higher
+ 	
+COMP 3512 - Web II: Web Application Development
+Credit(s): 3
+Lecture Hour(s): 3
+Lecture Hours Schedule Type: Lecture
+Tutorial Hour(s): 1
+This course focuses on the concepts and technologies needed to develop web-centric applications. The overall architecture of Internet applications is examined at a high level. Special emphasis is given to server-side programming, including the creation of multi-tier and multi-layer web applications and using Web Services to integrate web applications with other IT applications.
+Prerequisite(s): COMP 2511, COMP 2503 and COMP 2521 with a minimum grade of C-.
+
+ACCT 3221 - Intermediate Accounting I
+(3 credits) 3 hours lecture, 1 hour tutorial Lecture, Tutorial
+This course examines issues and problems related to GAAP for income determination and revenue recognition. International Financial Reporting Standards (IFRS) and Accounting standards for Private Enterprises (ASPE) relating to recognition, measurement, and financial statement presentation of assets are addressed.
+Prerequisite(s): ACCT 3220
+
+FILM 1143 - Introduction to the Study of Film
+(3 credits) 4 hours lecture Lecture
+This course surveys the history of narrative film from its beginnings to the present. Students will view and discuss, historically and aesthetically, approximately 10 major films, paying particular attention to their “film language”. The influence of technology, film theories and criticism will, where appropriate, be considered Written assignments will offer students practice in film analysis.
+Prerequisite(s): English Language Arts 30-1 or equivalent.
+Recommended Preparation: ENGL 0212 or ENGL 1101/GNED 1401 or GNED 1402 or GNED 1403 or GNED 1404.
+GNED Cluster 4 - Tier 2
+
+NURS 1111 - Theoretical Foundations of Nursing I
+Credit(s): 3
+Lecture Hour(s): 3
+Lecture Hours Schedule Type: Lecture
+Other Hour(s): 4
+Other Hours Schedule Type Field Work
+This course introduces the curriculum framework concepts of person, nursing, health and environment and the Bachelor of Nursing program goals. Emphasis will be placed on the history and evolution of the concepts of health and nursing as a basis for understanding the profession of nursing and knowledge based practice. Students will participate in a field experience observing nurses in a variety of roles.
+
+FACULTY
 
 Paul Pospisil
 Position: Associate Professor 
@@ -30,3 +75,341 @@ B.Sc., Math, (1982) University of Saskatchewan
 Paul has taught at the University since 1987. He mainly teaches in the Computer Science University Transfer (UT) program focusing on introductory programming, assembly language and computer architecture, and system software.
 At various times during his time at the University Paul has been the academic advisor and coordinator for the UT program.
 
+CRITICAL DATES
+Monday, 30 October
+ 
+Fall final examination schedule posted
+Wednesday, 1 November
+ 
+Awards Application Opens for 2024/2025 academic year
+ 
+Last day to apply for early admission for Winter semester (applications are accepted ongoing until December 20 or until the program is declared full)
+ 
+New student Winter registration open
+Wednesday, 8 November
+ 
+25% Formal evaluation feedback deadline
+Monday, 13 November
+ 
+Remembrance Day - campus closure
+Friday, 17 November
+ 
+Last day to withdraw from courses in the Fall semester with an award of “W” grade(s)
+Friday, 1 December
+ 
+All transcripts/official documents for admitted students due
+Monday, 11 December
+ 
+50% Formal evaluation feedback deadline
+ 
+Last day of Fall semester classes
+Wednesday, 13 December
+ 
+Fall semester final examination period
+Thursday, 14 December
+ 
+Fall semester final examination period
+Friday, 15 December
+ 
+Fall semester final examination period
+ 
+Last day to add name to Winter course waitlist
+Saturday, 16 December
+ 
+Fall semester final examination period
+Sunday, 17 December
+ 
+Fall semester final examination period
+Monday, 18 December
+ 
+Fall semester final examination period
+Tuesday, 19 December
+ 
+Fall semester final examination period
+Wednesday, 20 December
+ 
+Fall semester final examination period
+Thursday, 21 December
+ 
+Fall semester final examination period
+Friday, 22 December
+ 
+Fall semester final examination period
+Saturday, 23 December
+ 
+Fall semester final examination period
+ 
+Fall semester ends
+Monday, 25 December
+ 
+Holiday Closure (Recreation Center open to the public, but administrative and academic offices closed)
+Tuesday, 26 December
+ 
+Holiday Closure (Recreation Center open to the public, but administrative and academic offices closed)
+Wednesday, 27 December
+ 
+Holiday Closure (Recreation Center open to the public, but administrative and academic offices closed)
+Thursday, 28 December
+ 
+Holiday Closure (Recreation Center open to the public, but administrative and academic offices closed)
+Friday, 29 December
+ 
+Holiday Closure (Recreation Center open to the public, but administrative and academic offices closed)
+Saturday, 30 December
+ 
+Holiday Closure (Recreation Center open to the public, but administrative and academic offices closed)
+Sunday, 31 December
+ 
+Holiday Closure (Recreation Center open to the public, but administrative and academic offices closed)
+Monday, 1 January 2024
+ 
+Holiday Closure (Recreation Center open to the public, but administrative and academic offices closed)
+Wednesday, 3 January 2024
+ 
+First day of Winter semester
+ 
+New Student Orientation
+Thursday, 4 January 2024
+ 
+First day of Winter semester classes
+Friday, 12 January 2024
+ 
+Full fees for Winter semester due
+ 
+Last day to adjust registration (Add/Drop) for Winter semester with tuition refund (less deposit)
+Wednesday, 31 January 2024
+ 
+Last day to be reinstated for Winter semester
+Monday, 19 February 2024
+ 
+Family Day - campus closure
+Tuesday, 20 February 2024
+ 
+Reading break
+Wednesday, 21 February 2024
+ 
+Reading break
+Thursday, 22 February 2024
+ 
+Reading break
+Friday, 23 February 2024
+ 
+Reading break
+Monday, 26 February 2024
+ 
+Winter final examination schedule posted
+Wednesday, 28 February 2024
+ 
+Last day to apply to Graduate for spring 2024 Convocation
+Friday, 1 March 2024
+ 
+Awards Application Closes for 2024/2025 academic year
+Monday, 4 March 2024
+ 
+Spring/Summer Registration access dates posted - check MyMRU
+Wednesday, 6 March 2024
+ 
+25% Formal evaluation feedback deadline
+ 
+Winter Registration access dates posted - check MyMRU
+Monday, 11 March 2024
+ 
+Continuing student Spring/Summer Registration open - check MyMRU
+Friday, 15 March 2024
+ 
+Last day to withdraw from courses in the Winter semester with an award of “W” grade(s)
+Monday, 25 March 2024
+ 
+New student Spring registration open
+Thursday, 28 March 2024
+ 
+Last day to apply to Graduate for spring 2024 Convocation
+Friday, 29 March 2024
+ 
+Good Friday - campus closure
+Monday, 1 April 2024
+ 
+Easter Monday - campus closure
+Monday, 8 April 2024
+ 
+50% Formal evaluation feedback deadline
+ 
+Last day of Winter semester classes
+Wednesday, 10 April 2024
+ 
+Winter semester final examination period*
+Thursday, 11 April 2024
+ 
+Winter semester final examination period*
+Friday, 12 April 2024
+ 
+Winter semester final examination period*
+Saturday, 13 April 2024
+ 
+Winter semester final examination period*
+Sunday, 14 April 2024
+ 
+Winter semester final examination period*
+Monday, 15 April 2024
+ 
+Winter semester final examination period*
+ 
+All transcripts/official documents for admitted students due
+ 
+Last day to add name to Spring course waitlist
+Tuesday, 16 April 2024
+ 
+Winter semester final examination period*
+Wednesday, 17 April 2024
+ 
+Winter semester final examination period*
+Thursday, 18 April 2024
+ 
+Winter semester final examination period*
+Friday, 19 April 2024
+ 
+Winter semester final examination period*
+Saturday, 20 April 2024
+ 
+Winter semester final examination period*
+ 
+Winter semester ends
+
+FAQs
+
+How do I contact admissions?
+Call the Admissions and Recruitment Office at 403.440.5000. Please include your full name and your Mount Royal Student ID if you have one. 
+Fall/Winter Hours (Aug. 15 to June 30)
+Monday to Friday - 8:30 a.m. - 4:30 p.m.
+Summer Hours (July 1 to Aug. 14)
+Monday to Friday - 8:30 a.m. - 4 p.m.
+Phone: 403.440.5000
+Toll-Free in North America: 1.877.440.5001
+Fax: 403.440.6339
+
+What courses should I register for?
+Review the Program Advising Guide  for your program or intended program in the Academic Calendar. Each guide outlines the courses you should completed in your first year.
+
+How do I register for courses?
+Course registration is completed online through your MyMRU account. Watch the Registration Tutorial Series to learn how to use MyMRU to register.
+
+What are General Education (GNED) requirements?
+At Mount Royal, all degree and diploma program require students to meet General Education requirements. The General Education component requires students to take a combination of courses form four clusters (subject areas). The clusters are:
+Cluster 1: Numeracy and Scientific Literacy;
+Cluster 2: Values, Beliefs, and Identity;
+Cluster 3: Community and Society;
+Cluster 4: Communication.
+Please check your Program Advising Guide or your mruGradU8 audit for specific General Education requirements for your program.
+
+Can I take a course if I am lacking the prerequisite?
+It is the student's responsibility to ensure that all pre-requisites are met prior to registering for a class. In some cases, a course may include a notation of "departmental approval", in which case a student may request an override for a pre-requisite directly from the Department Chair.
+
+What is the ONECard?
+The ONECard is MRU’s official campus identification credential.
+It is a photo identification card and your:
+Dining plan card
+Library card
+Access to recreation facilities
+Access to computer and science labs
+Access to office space
+Access to campus after hours
+Campus debit card
+Campus debit card usable at:
+The Cougars Campus Store
+The Table
+Tim Hortons
+Starbucks
+Jugo Juice (both locations)
+Barrow Coffee
+Boost mobile ordering app
+Printers on campus
+All students, faculty and staff of Mount Royal University should have a ONECard. Your first ONECard is free.
+
+SAMRU
+
+The Students’ Association of Mount Royal University (SAMRU) is a membership-based organization that represents and serves Mount Royal University students to help them succeed.  All credit students at Mount Royal University are members of SAMRU.
+SAMRU is where every student can discover themselves, build meaningful relationships and make a difference in the world.
+
+CAMRU
+
+what is CAMRU?
+CAMRU is the Computing Alliance of Mount Royal University, a place for computing students to socialize, network, and learn.
+Their purpose has always been to serve students interested in computing. They work to do this primarily through organizing events that provide value in a multitude of ways. Whether by hosting their annual networking event, a simple games night, or something in between, fostering a strong community is their top priority.
+Through the years CAMRU has helped many students find work terms, internships, and even full-time jobs through their networking events and sharing information from local companies they work with. They have been the catalyst to innumerable friendships and professional connections that will last a lifetime. As well, they have assisted students with academic, professional, and social support they have needed over the years.
+
+CAMRU team:
+Sunny Parmar-President
+Ashley Hunchak-Vice President
+Jared Sedran-VP Finance
+Nikhil Srivastava-VP External
+Viktoriya Bolgachenko-VP Student Engagement
+Matthew Hrehirchuk-VP Web and Design
+Ezzidean Azzabi-VP Internal
+
+FOOD
+Places to eat at MRU:
+Jugo Juice Recreation
+Monday 8 a.m. to 8 p.m.
+Tuesday 8 a.m. to 8 p.m.
+Wednesday 8 a.m. to 8 p.m.
+Thursday 8 a.m. to 8 p.m.
+Friday 8 a.m. to 8 p.m.
+Saturday 8 a.m. to 8 p.m.
+Sunday 8 a.m. to 8 p.m.
+Open late on Cougars game nights
+ 
+Tim Hortons
+Monday  7 a.m. to 7 p.m.
+Tuesday 7 a.m. to 7 p.m.
+Wednesday 7 a.m. to 7 p.m.
+Thursday 7 a.m. to 7 p.m.
+Friday 7 a.m. to 3 p.m.
+Saturday, Sunday & Holidays closed
+
+Barrow Coffee Roasters EL
+Monday 7:30 a.m. to 5:30 p.m.
+Tuesday 7:30 a.m. to 5:30 p.m.
+Wednesday 7:30 a.m. to 5:30 p.m.
+Thursday 7:30 a.m. to 5:30 p.m.
+Friday 7:30 a.m. to 3:30 p.m.
+Saturday 10 a.m. to 2 p.m.
+Sunday 10 a.m. to 3 p.m.
+
+The Table Food Hall
+Monday 7:30 a.m. to 3 p.m.
+Tuesday 7:30 a.m. to 3 p.m.
+Wednesday 7:30 a.m. to 3 p.m.
+Thursday 7:30 a.m. to 3 p.m.
+Friday 7:30 a.m. to 3 p.m.
+Saturday, Sunday & Holidays closed
+ 
+Starbucks East Gate
+Monday 7 a.m. to 3 p.m.
+Tuesday 7 a.m. to 3 p.m.
+Wednesday 7 a.m. to 3 p.m.
+Thursday 7 a.m. to 3 p.m.
+Friday 7 a.m. to 3 p.m.
+Saturday, Sunday & Holidays closed
+
+Jugo Juice EA Building
+Monday 7 a.m. to 6 p.m.
+Tuesday 7 a.m. to 6 p.m.
+Wednesday 7 a.m. to 6 p.m.
+Thursday 7 a.m. to 6 p.m.
+Friday 7 a.m. to 5 p.m.
+Saturday, Sunday & Holidays closed 
+
+Barrow Coffee Roasters EB
+Monday 8 a.m. to 3 p.m.
+Tuesday 8 a.m. to 3 p.m.
+Wednesday 8 a.m. to 3 p.m.
+Thursday 8 a.m. to 3 p.m.
+Friday 8 a.m. to 2 p.m.
+Saturday, Sunday & Holidays closed
+
+CLUBS
+
+Some clubs available at MRU include:
+
+
+for more information, visit https://samru.ca/getinvolved/clubs/
