@@ -43,8 +43,8 @@
             </div>
             <div id="messageFormeight" class="card-body msg_card_body">
               <h1 class="welcomeMsg" id="welcomeMessage">
-                I am
-                <span class="calvinStr">Calvin</span>, <br />how can I help
+                Hello, I am
+                <span class="calvinStr">Calvin</span>. <br />How can I help
                 <br />you today?
               </h1>
               <!-- Rest of your messages will be appended here -->
@@ -140,6 +140,7 @@
               "</span></div></div>";
 
             appendMessage($.parseHTML(botHtml)); // Append bot response and trigger resizing
+            messageFormeight.scrollTop = messageFormeight.scrollHeight;
           });
         });
       });
