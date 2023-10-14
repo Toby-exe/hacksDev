@@ -14,3 +14,19 @@ Tutorial Hour(s): 1
 An introduction to combinational and sequential digital logic design, focusing on its application to the creation of modern computing machinery. Includes hardware interfacing to peripheral devices, and programming techniques for asynchronous and real-time machine input/output.
 Prerequisite(s): PHIL 1179 and COMP 2655 with minimum grades of C- or higher.
 
+Paul Pospisil
+Position: Associate Professor 
+
+Office: B170I
+Phone: 403-440-6249
+E-mail: ppospisil@mtroyal.ca
+Website: http://www2.mtroyal.ca/~ppospisil
+
+Education:
+M.Sc., (Computer Science) (1988), University of Saskatchewan
+B.Ed., (1983), University of Saskatchewan
+B.Sc., Math, (1982) University of Saskatchewan
+
+Paul has taught at the University since 1987. He mainly teaches in the Computer Science University Transfer (UT) program focusing on introductory programming, assembly language and computer architecture, and system software.
+At various times during his time at the University Paul has been the academic advisor and coordinator for the UT program.
+
