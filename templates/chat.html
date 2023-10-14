@@ -44,33 +44,25 @@
             <div id="messageFormeight" class="card-body msg_card_body">
               <h1 class="welcomeMsg" id="welcomeMessage">
                 I am
-                <span class="calvinStr">Calvin</span>,
-				<br>how can I help <br>you today?
+                <span class="calvinStr">Calvin</span>, <br />how can I help
+                <br />you today?
               </h1>
               <!-- Rest of your messages will be appended here -->
             </div>
-            <div class="card-footer">
-              <form id="messageArea" class="input-group">
-                <input
-                  type="text"
-                  id="text"
-                  name="msg"
-                  placeholder="Ask me about Mount Royal University ..."
-                  autocomplete="off"
-                  class="form-control type_msg"
-                  required
-                />
-                <div class="input-group-append">
-                  <button
-                    type="submit"
-                    id="send"
-                    class="input-group-text send_btn"
-                  >
-                    <i class="fas fa-location-arrow"></i>
-                  </button>
-                </div>
-              </form>
+            <!-- <div class="card-footer"> -->
+            <div id="messageArea" class="input-group">
+              <!-- <input class="input-bar" type="text" name="" id="text"> -->
+              <textarea
+                class="input-bar"
+                id="text"
+                rows="1"
+                placeholder="     Ask me your questions about MRU ..."
+              ></textarea>
+              <button class="submit-btn" id="send">
+                <img src="../static/img/Vector.png" alt="" />
+              </button>
             </div>
+            <!-- </div> -->
           </div>
         </div>
       </div>
@@ -78,7 +70,40 @@
 
     <script>
       $(document).ready(function () {
-        $("#messageArea").on("submit", function (event) {
+        const textArea = $("#text");
+        const messageContainer = $("#messageFormeight");
+
+        // Function to resize the message container based on its content
+        function resizeMessageContainer() {
+          messageContainer.css("height", "auto"); // Reset the height to auto
+          messageContainer.css(
+            "height",
+            messageContainer[0].scrollHeight + "px"
+          ); // Set the height to fit the content
+        }
+        // Function to resize the textarea based on its content
+        function resizeTextarea() {
+          textArea.css("height", "auto"); // Reset the height to auto
+          textArea.css("height", textArea[0].scrollHeight + "px"); // Set the height to fit the content
+        }
+        // Function to append a message to the container and trigger resizing
+        function appendMessage(html) {
+          messageContainer.append(html);
+          resizeMessageContainer(); // Resize the message container after appending
+        }
+
+        // Bind the textarea to the input event to trigger resizing
+        textArea.on("input", resizeTextarea);
+
+        // Bind the textarea to the keydown event to submit the form when the user hits enter
+        textArea.on("keydown", function (event) {
+          if (event.keyCode === 13 && !event.shiftKey) {
+            event.preventDefault(); // Prevent adding a new line to the text area
+            $("#send").click(); // Trigger a click event on the send button
+          }
+        });
+
+        $("#send").on("click", function (event) {
           const date = new Date();
           const hour = date.getHours();
           const minute = date.getMinutes();
@@ -87,13 +112,18 @@
 
           var userHtml =
             '<div class="d-flex justify-content-end mb-4"><div class="msg_cotainer_send">' +
-            rawText +
+            rawText.replace(new RegExp('.{1,' + Math.floor(window.innerWidth / 40) + '}', 'g'), "$&\n") +
             '<span class="msg_time_send">' +
             str_time +
             '</span></div><div class="img_cont_msg"><img src="https://i.ibb.co/d5b84Xw/Untitled-design.png" class="rounded-circle user_img_msg"></div></div>';
 
-          $("#text").val("");
-          $("#messageFormeight").append(userHtml);
+          textArea.val(""); // Clear the textarea
+          resizeTextarea(); // Resize the textarea after clearing the content
+          appendMessage(userHtml);
+
+          // Scroll to the bottom of the chat box
+          var messageFormeight = document.getElementById("messageFormeight");
+          messageFormeight.scrollTop = messageFormeight.scrollHeight;
 
           $.ajax({
             data: {
@@ -102,21 +132,17 @@
             type: "POST",
             url: "/get",
           }).done(function (data) {
-            var botHtml =
+			var botHtml =
               '<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img src="../static/img/cougar_icon.svg" class="rounded-circle user_img_msg"></div><div class="msg_cotainer">' +
-              data +
+              data.replace(new RegExp('.{1,' + Math.floor(window.innerWidth / 40) + '}', 'g'), "$&\n") +
               '<span class="msg_time">' +
               str_time +
               "</span></div></div>";
-            $("#messageFormeight").append($.parseHTML(botHtml));
-			$("#messageFormeight").scrollTop($("#messageFormeight")[0].scrollHeight + 100);
 
-		});
-          event.preventDefault();
+            appendMessage($.parseHTML(botHtml)); // Append bot response and trigger resizing
+          });
         });
       });
-
- 
     </script>
   </body>
 </html>
